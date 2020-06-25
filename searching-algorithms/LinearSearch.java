@@ -15,7 +15,7 @@ class LinearSearch{
     }
     System.out.println("Enter the value to be searched :");
     int searchVal = scanner.nextInt();
-    //sending the array to a sorting func
+    //sending the array to a searching func
     int valueAt = search(arr ,searchVal);
    
     System.out.println("The value you are searching for is at " + (valueAt+1) +" position" );
