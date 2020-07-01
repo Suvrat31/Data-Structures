@@ -4,4 +4,5 @@
 ## Searching Algorithms
 1. [Linear Search](searching-algorithms/LinearSearch.java) - Time Complexity : O(n)
 2. [Binary Search](searching-algorithms/BinarySearch.java) - Time Complexity : O(log(n))
+2. [Jump Search](searching-algorithms/BinarySearch.java) - Time Complexity : O(sqrt(n))
   
