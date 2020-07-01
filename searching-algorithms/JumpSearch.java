@@ -1,4 +1,4 @@
-// searches in a Sorted Array, Hence Sort the array first before implementing. Using Recursive Binary Search...
+//Jump search uses the jump size that is sqrt(array length) and does a linear search between the range where the value to be searched might lie.
 import java.io.*;
 import java.lang.*;
 import java.util.*;
