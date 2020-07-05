@@ -9,7 +9,7 @@ public class ExponentialSearch {
         int arrlen = arr.length;
         Scanner scanner = new Scanner(System.in);
         
-        System.out.println("Enter an array of 10 numbers to be sorted using binary search :");
+        System.out.println("Enter an array of 10 numbers to be sorted using exponential search :");
     //user input for array values
         for(int i=0; i<10; i++){
         value = scanner.nextInt();
