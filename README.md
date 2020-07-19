@@ -9,4 +9,5 @@
 
 ## Sorting Algorithms
 1. [Selection Sort](sorting-algorithms/SelectionSort.java) - Time Complexity : O(n^2)
+1. [Bubble Sort](sorting-algorithms/BubbleSort.java) - Time Complexity : O(n^2)
 
