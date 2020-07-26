@@ -14,5 +14,6 @@
 
 ## Problems
 1. [Max Sum in a Contiguous Array](problems/maxSum.java) - Time Complexity : O(n)  
-Problem Statement: Find the contiguous subarray within an array, A of length N which has the largest sum.
+Problem Statement: Find the contiguous subarray within an array, A of length N which has the largest sum.  
+
 2.[Implementing LRU Cache](problems/LRUCache.java)
