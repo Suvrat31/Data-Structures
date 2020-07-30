@@ -13,7 +13,9 @@
 3. [Recursive Bubble Sort](sorting-algorithms/RecursiveBubbleSort.java) - Time Complexity : O(n^2)
 
 ## Problems
-1. [Max Sum in a Contiguous Array](problems/maxSum.java) - Time Complexity : O(n)  
-Problem Statement: Find the contiguous subarray within an array, A of length N which has the largest sum.  
 
-2.[Implementing LRU Cache](problems/LRUCache.java)
+| Problem     | Description | Time Complexity|
+|  ---        |     ----    |          ---  |
+| [Max Sum in a Contiguous Array](problems/maxSum.java)      | Find the contiguous subarray within an array, A of length N which has the largest sum       | O(n)   |
+| [Implementing LRU Cache](problems/LRUCache.java)   | We are given total possible page numbers that can be referred. We are also given cache (or memory) size (Number of page frames that cache can hold at a time). The LRU caching scheme is to remove the least recently used frame when the cache is full and a new page is referenced which is not there in cache.        |       |
+
