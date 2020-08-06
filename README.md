@@ -19,3 +19,4 @@
 | [Max Sum in a Contiguous Array](problems/maxSum.java)      | Find the contiguous subarray within an array, A of length N which has the largest sum       | O(n)   |
 | [Implementing LRU Cache](problems/LRUCache.java)   | We are given total possible page numbers that can be referred. We are also given cache (or memory) size (Number of page frames that cache can hold at a time). The LRU caching scheme is to remove the least recently used frame when the cache is full and a new page is referenced which is not there in cache.        |       |
 | [Largest Number](problems/LargestNumber.java)      | Given a list of non negative integers, arrange them such that they form the largest number       |    |
+| [Palindrome Integer](problems/PalindromeInteger.java)      | Given an integer, find whether it is a palindrome or not saving maximum space possible or without using extra space      |    |
