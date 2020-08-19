@@ -22,3 +22,8 @@
 | [Palindrome Integer](problems/PalindromeInteger.java)      | Given an integer, find whether it is a palindrome or not saving maximum space possible or without using extra space      |    |
 | [Noble Integer](problems/NobleInteger.java)      | Given an integer array A, find if an integer p exists in the array such that the number of integers greater than p in the array equals to p. Return 1 if any such integer p is found else return -1       | O(n^2)   |
 | [Wave Array](problems/WaveArray.java)      | Given an array of integers, sort the array into a wave like array and return it,In other words, arrange the elements into a sequence such that a1 >= a2 <= a3 >= a4 <= a5.....       |    |
+## Problems related to Binary Search 
+
+| Problem     | Description | Time Complexity|
+|  ---        |     ----    |          ---  |
+| [Max Sum in a Contiguous Array](/maxSum.java)      | Find the contiguous subarray within an array, A of length N which has the largest sum       | O(n)   |
