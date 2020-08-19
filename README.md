@@ -12,7 +12,7 @@
 2. [Bubble Sort](sorting-algorithms/BubbleSort.java) - Time Complexity : O(n^2)
 3. [Recursive Bubble Sort](sorting-algorithms/RecursiveBubbleSort.java) - Time Complexity : O(n^2)
 
-## Problems
+## Problems related to Array & Math
 
 | Problem     | Description | Time Complexity|
 |  ---        |     ----    |          ---  |
@@ -26,4 +26,4 @@
 
 | Problem     | Description | Time Complexity|
 |  ---        |     ----    |          ---  |
-| [Max Sum in a Contiguous Array](/maxSum.java)      | Find the contiguous subarray within an array, A of length N which has the largest sum       | O(n)   |
+| [Median Array](binary-search/MedianArray.java)      | https://www.interviewbit.com/problems/matrix-median/       |    |
